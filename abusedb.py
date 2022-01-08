@@ -1,5 +1,5 @@
 #####
-# Abuse-DB checking script
+# Abuseip-DB checking script
 # Ali Alkarbi
 # am.alkarbi@gmail.com
 #
